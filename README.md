@@ -1,2 +1,2 @@
-# wall_following
-new repository for current project on wall follower/object recognition 
+# object_detection
+new repository for current project on navigation/object recognition 
